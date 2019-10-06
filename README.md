@@ -1,2 +1,2 @@
 # c21c-england
-A constitution for 21 centuary England. 
+A constitution for 21 century England. 
